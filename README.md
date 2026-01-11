@@ -1,6 +1,6 @@
 # 🐍 Python Generation: a course for beginners
 
-The repository contains my solutions to practical problems and the final works of the course [«Поколение Python: курс для начинающих»](https://stepik.org/course/58852/info) on the Stepik platform.
+The repository contains my solutions to practical exercises and the final works of the course [«Поколение Python: курс для начинающих»](https://stepik.org/course/58852/info) on the Stepik platform.
 
 ## 📊 Learning progress
 
